@@ -1,6 +1,7 @@
 def count_strings(array)
  array.count do |string|
    if string == ""
+     
  end
  end
 end
